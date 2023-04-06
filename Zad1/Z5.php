@@ -51,6 +51,7 @@ function choice($num, $a, $b  , $h){
             echo "You pick wrong number try 1 - 3";
     }
 }
+
 echo choice(1,3,0,5).'<br>';
 echo choice(2,3,0,5).'<br>';
 echo choice(3,3,4,5).'<br>';

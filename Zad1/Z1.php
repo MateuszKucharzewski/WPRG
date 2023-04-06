@@ -5,6 +5,4 @@ function roll() {
 }
 echo roll().'<br>';
 echo roll().'<br>';
-echo roll().'<br>';
-echo roll().'<br>';
 

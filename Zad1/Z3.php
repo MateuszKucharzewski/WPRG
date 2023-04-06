@@ -9,7 +9,7 @@
 
 
 function censorship($text){
-    $tab =['ala', '911', 'wege'];
+    $tab =['witek', 'lody', 'kokosowe'];
 
     foreach ($tab as $item){
         $cens = str_repeat('*',strlen($item));
@@ -17,4 +17,4 @@ function censorship($text){
     }
     return $text;
 }
-echo censorship("Ala jest wege i ma kota ktory lubi liczbe 911");
+echo censorship("Witel lubi lody truskawkowe i kokosowe");

@@ -11,7 +11,7 @@ function diameter($r){
     return (2*$r);
 }
 
-echo diameter(52).'<br>';
-echo diameter(12).'<br>';
-echo diameter(-14).'<br>';
-echo diameter(76).'<br>';
+echo diameter(17).'<br>';
+echo diameter(28).'<br>';
+echo diameter(-3).'<br>';
+echo diameter(68).'<br>';
